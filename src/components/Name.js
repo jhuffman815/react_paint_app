@@ -12,4 +12,4 @@ export default React.memo(() => {
       />
     </label>
   )
-}
+})
